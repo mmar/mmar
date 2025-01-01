@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/mmar/mmar/main/img/Feliz2025.png" alt="Feliz 2025" height=400 />
+
 I make computer programs.
 
 I've programmed in BASIC, Z80 and 8088 Assembly, DOS batch files, Pascal, C,
@@ -18,5 +20,3 @@ others to freely use when creating their own programs.
 [LinkedIn]: https://www.linkedin.com/in/matusalemmarques/
 [StackOverflow]: https://stackoverflow.com/users/8103030/matusalem-marques
 [AppStoreBadge]: img/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg "Download on the App Store"
-
-_Powered by wife :heart: and kitties :smiley_cat:_
