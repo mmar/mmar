@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/mmar/mmar/main/img/Feliz2025.png" alt="Feliz 2025" height=400 />
-
 I make computer programs.
 
 I've programmed in BASIC, Z80 and 8088 Assembly, DOS batch files, Pascal, C,
